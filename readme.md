@@ -24,6 +24,8 @@ This template shows the **correct baseline**:
 
 No frameworks. No build step.
 
+![CleanShot 2025-12-14 at 20 23 25@2x](https://github.com/user-attachments/assets/2103c538-a39e-480b-8af3-268f49549b4c)
+
 _For a fast & futuristic one-page landing, check out Lumina_: 
 https://www.yuzool.com/lumina.html
 
@@ -271,4 +273,4 @@ MIT
 
 Built for fast, honest landing pages.
 
-More tools → **https://www.yuzool.com.com**
+More tools → **https://www.yuzool.com**
